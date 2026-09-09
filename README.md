@@ -1,10 +1,10 @@
 ### 👋🏻 Hi there, I'm Jonathan
 
-- 💻 I'm a full-stack web developer.
-- 🎓 I recently completed the [Pursuit Fellowship](https://www.pursuit.org/fellowship).
-- 🌱 I’m currently learning JavaScript and React.
+- 💻 I'm a full-stack web developer and technologist.
+- 🎓 I completed the [Pursuit Fellowship](https://www.pursuit.org/fellowship) in 2022.
+- 🌱 I’m currently learning Python, ethical hacking, network security, and cloud technologies.
 - 💡 I'm interested in user experience (UX) design, cybersecurity, and accessibility.
-- 🏆 I'm a [CompTIA A+ certified IT professional](https://www.certmetrics.com/comptia/public/verification.aspx?code=7LZZ1KHEECFQSN0D).
+- 🏆 I'm a [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/VWO09U4ZLZO6) and [CompTIA A+ ce](https://www.certmetrics.com/comptia/public/verification.aspx?code=7LZZ1KHEECFQSN0D) dual certified IT professional.
 - 💾 My background is in IT and customer service.
 - 👨‍💻 My pronouns are he/him/his.
 - 🪁 My hobbies include reading and kite-flying.
@@ -22,6 +22,3 @@
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/jonscheiber/).
 - 📧 Email me at [jonathan@scheiber.dev](mailto:jonathan@scheiber.dev).
 - 🌐 Visit my website at [scheiber.dev](https://scheiber.dev/).
-- 🏕️ See my coding journey on [Codewars](https://www.codewars.com/users/Scheiber) and [Exercism](https://exercism.org/profiles/Scheiber).
-
-[![Codewars](https://www.codewars.com/users/Scheiber/badges/micro)](https://www.codewars.com/users/Scheiber)
