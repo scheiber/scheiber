@@ -4,7 +4,7 @@
 - 🎓 I completed the [Pursuit Fellowship](https://www.pursuit.org/fellowship) in 2022.
 - 🌱 I’m currently learning Python, ethical hacking, network security, and cloud technologies.
 - 💡 I'm interested in user experience (UX) design, cybersecurity, and accessibility.
-- 🏆 I'm a [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/VWO09U4ZLZO6) and [CompTIA A+ ce](https://cp.certmetrics.com/comptia/en/public/verify/credential/7LZZ1KHEECFQSN0D) dual certified IT professional.
+- 🏆 I'm a [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/VWO09U4ZLZO6) and [CompTIA A+ ce](https://cp.certmetrics.com/comptia/en/public/verify/credential/TNGZ15T3EDEEYL8C) dual certified IT professional.
 - 💾 My background is in IT and customer service.
 - 👨‍💻 My pronouns are he/him/his.
 - 🪁 My hobbies include reading and kite-flying.
