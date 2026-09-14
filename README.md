@@ -12,6 +12,9 @@
 
 ### 🛫 Projects:
 
+- 🕰️ [Checkmate](https://checkmate.scheiber.dev/): A study time tracker that works like a chess clock. Tap a side to hand the time over, the way you slap a chess clock to pass the turn. [The entire app is built in a single HTML file](https://github.com/scheiber/checkmate).
+- 💔 [Breakup Recovery Guide](https://breakuprecovery.org/): A free, non-commercial guide to recovering from a breakup or divorce. Built with
+  [Vite, React, TypeScript, Tailwind CSS, and deployed on Netlify](https://github.com/scheiber/breakup-recovery-guide).
 - 🥃 [Worth a Shot](https://worthashot.scheiber.dev/): Full-stack bar and nightclub finder web app with a [React front-end, an Express backend, and a PostgreSQL database](https://github.com/scheiber/worthashot).
 - 🔥 [SauceSource](https://saucesource.scheiber.dev/): Full-stack hot sauce reference web app with a [React front-end, an Express backend, and a PostgreSQL database](https://github.com/scheiber/saucesource).
 - 💰 [Allocate](https://allocate.scheiber.dev/): Full-stack budgeting web app with a [React front-end](https://github.com/scheiber/allocate) and an [Express back-end](https://github.com/scheiber/allocate-backend).
